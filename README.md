@@ -1,2 +1,1 @@
-# DevC JavaScript Development Course
-Exercise 1
+ This is my Profile Picture
